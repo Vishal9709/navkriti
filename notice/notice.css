@@ -422,7 +422,7 @@ display: block;
     left: 43%;
 }
 #co-ordinators{
-    left: 45%;
+    left: 43%;
 }
 .txt{
     position: relative;
@@ -553,7 +553,7 @@ display: block;
 @media (min-width: 1600px){
 
     #co-ordinators {
-        left: 46%;
+        left: 43%;
     }
 }
 

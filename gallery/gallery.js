@@ -130,14 +130,23 @@ const galleryImages = {
     '../assets/images/navkriti_2k18/2.jpg'
   ],
   '2k23': [
-    '../assets/images/navkriti_2k23/1.jpg',
-    '../assets/images/navkriti_2k23/2.jpg',
-    '../assets/images/navkriti_2k23/3.jpg'
+    '../assets/images/navkriti_2k23/1.2.jpg',
+    '../assets/images/navkriti_2k23/2.1.jpg',
+    '../assets/images/navkriti_2k23/1.3.jpg',
+    '../assets/images/navkriti_2k23/2.1.jpg',
+    '../assets/images/navkriti_2k23/2.2.jpg',
+    '../assets/images/navkriti_2k23/2.3.jpg'
   ],
   '2k25': [
-    '../assets/images/navkriti_2k25/1.jpg',
+    '../assets/images/navkriti_2k25/1.1.jpg',
+    '../assets/images/navkriti_2k25/1.2.jpg',
     '../assets/images/navkriti_2k25/2.jpg',
-    '../assets/images/navkriti_2k25/3.jpg'
+    '../assets/images/navkriti_2k25/3.jpg',
+    '../assets/images/navkriti_2k25/5.jpg',
+    '../assets/images/navkriti_2k25/6.1.jpg',
+    '../assets/images/navkriti_2k25/6.jpg',
+    '../assets/images/navkriti_2k25/7.jpg',
+    '../assets/images/navkriti_2k25/7.1.jpg'
   ]
 };
 
