@@ -232,3 +232,6 @@ document.addEventListener('DOMContentLoaded', function () {
   // You can customize and expand these functions based on your specific requirements.
 
 });
+
+
+
